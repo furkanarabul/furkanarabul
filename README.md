@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Front-End Developer based in Germany.
+
+How to find me? 📨
+
+Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
 <!--
 **furkanarabul/furkanarabul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
