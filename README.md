@@ -1,6 +1,6 @@
-### Hi there 👋 I am Furkan
+### Hi there 👋  I am Furkan
 
-I'm Front-End Developer based in Germany.
+I'm a Front-End Developer based in Germany.
 
 How to find me? 📨
 
