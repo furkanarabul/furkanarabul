@@ -12,7 +12,7 @@ Languages and Tools: <br/>
 ![](icons/css.png)
 ![](icons/javascript.png)
 ![](icons/git.png)
-![](icons/vue.png)
+![](icons/vuejs.png)
 ![](icons/sass.png)
 ![](icons/less.png)
 ![](icons/bootstrap.png)
