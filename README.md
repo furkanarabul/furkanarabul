@@ -7,6 +7,7 @@ How to find me? 📨
 Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
 
 Languages and Tools: <br/>
+
 ![](icons/html.png)
 ![](icons/css.png)
 ![](icons/javascript.png)
