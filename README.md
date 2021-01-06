@@ -2,9 +2,9 @@
 
 I'm a Front-End Developer based in Germany.
 
-How to find me? 📨
-
 🌱 I’m currently learning Vue.js
+
+How to find me? 📨
 
 Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
 
