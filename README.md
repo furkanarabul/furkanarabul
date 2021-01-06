@@ -4,6 +4,8 @@ I'm a Front-End Developer based in Germany.
 
 How to find me? 📨
 
+🌱 I’m currently learning Vue.js
+
 Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
 
 Languages and Tools: <br/>
