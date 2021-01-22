@@ -1,4 +1,4 @@
-### Hi there 👋  I am Furkan
+### Hi there 👋 I am Furkan
 
 I'm a Front-End Developer based in Germany.
 
@@ -9,7 +9,7 @@ How to find me? 📨
 Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
 
 Languages and Tools: <br/>
- <br/>
+<br/>
 ![](icons/html.png)
 ![](icons/css.png)
 ![](icons/javascript.png)
@@ -21,9 +21,11 @@ Languages and Tools: <br/>
 ![](icons/adobe.png)
 ![](icons/figma.png)
 ![](icons/grunt.png)
+![](icons/firebase.png)
 ![](icons/salesforce.png)
 ![](icons/jira.png)
 ![](icons/bitbucket.png)
+
 <!--
 **furkanarabul/furkanarabul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
