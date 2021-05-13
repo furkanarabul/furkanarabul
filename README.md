@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer based in Germany.
 
-🌱 I’m currently learning Vue.js
+🌱 I’m currently learning Vue.js and React
 
 How to find me? 📨
 
