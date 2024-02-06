@@ -17,6 +17,7 @@ Languages and Tools: <br/>
 ![](icons/vuejs.png)
 ![](icons/sass.png)
 ![](icons/less.png)
+![](icons/tailwind.png)
 ![](icons/bootstrap.png)
 ![](icons/adobe.png)
 ![](icons/figma.png)
