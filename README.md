@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Furkan
 
-I'm a Front-End Developer based in Germany.
-
-🌱 I’m currently learning React and Vue.js 
+Frontend Developer with 5+ years of professional experience in Germany, specializing
+in modern, scalable web applications. Strong expertise in HTML, CSS, JavaScript, and con-
+temporary frontend frameworks. Experienced in building responsive, user-centered interfaces
+with a strong UI/UX foundation, contributing to enterprise-scale platforms, design systems,
+and CMS-driven solutions.
 
 How to find me? 📨
 
