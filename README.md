@@ -8,7 +8,7 @@ and CMS-driven solutions.
 
 How to find me? 📨
 
-Linkedin : https://www.linkedin.com/in/furkan-arabul-00b5192a/
+Linkedin : [https://www.linkedin.com/in/furkanarabul/](https://www.linkedin.com/in/furkanarabul/)
 
 Languages and Tools: <br/>
 <br/>
